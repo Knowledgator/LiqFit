@@ -1,0 +1,2 @@
+from .t5 import T5ForZeroShotClassification, T5ConfigWithLoss
+from .deberta import DebertaV2ForZeroShotClassification, DebertaConfigWithLoss
