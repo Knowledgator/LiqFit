@@ -1,3 +1,9 @@
+<p align="center">
+    🤗 <a href="https://huggingface.co/collections/knowledgator/zero-shot-text-classification-models-65b93970ddafc3f8a5e9b591" target="_blank">Models</a> | 📕 <a href="https://docs.knowledgator.com/docs/frameworks/liqfit" target="_blank">Documentation</a> | 📖 <a href="https://medium.com/@knowledgrator/introducing-liqfit-flexible-few-shot-learning-library-for-cross-encoder-models-804eac5aea92" target="_blank">Blog</a>
+<br>
+. . .
+</p>
+
 # LiqFit - Flexible Few-shot Learning Library.
 
 LiqFit is an easy-to-use framework for few-shot learning of cross-encoder models. Such models were trained to distinguish whether two statements entail, contradict each other or are neutral. Such task setting is universal for many information extraction tasks, starting from text classification and ending with named entity recognition and question-answering. With LiqFit, you can achieve competitive results by having just 8 examples per label. 
