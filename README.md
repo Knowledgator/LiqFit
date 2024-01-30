@@ -4,11 +4,11 @@ LiqFit is an easy-to-use framework for few-shot learning of cross-encoder models
 
 
 Key features and benefits of LiqFit are:
-* 🔢 **A small number of examples are required** - LiqFit can significantly improve the accuracy of default zero-shot classifier having just 8 examples;
-* 📝 **Can solve many different information-extraction tasks** - Natural language inference is universal task that can be applied as a setting for many other information extraction tasks, like named entity recognition of question&answering;
-* 🌈 **Can work for other classes not presented in the training set** - It's not mandatory to have all needed classes in a training set. Because of pre-finetuing on large massive of NLI and classification tasks a model will save generalisability to other classes;
-* ⚙️ **Support of a variety of cross-encoder realisations** - LiqFit suppots different type of cross-encoders including convential, binary one and encoder-decoder architectures;
-* ⚖️ **Stable to unbalanced datasets** - LiqFit uses normalization techniques that allow work well even in the cases of unbalanced data;
+* 🔢 **A small number of examples are required** - LiqFit can significantly improve the accuracy of the default zero-shot classifier having just 8 examples;
+* 📝 **Can solve many different information-extraction tasks** - Natural language inference is a universal task that can be applied as a setting for many other information extraction tasks, like named entity recognition of question&answering;
+* 🌈 **Can work for other classes not presented in the training set** - It's not mandatory to have all needed classes in a training set. Because of pre-finetuning on large amounts of NLI and classification tasks, a model will save generalisability to other classes;
+* ⚙️ **Support of a variety of cross-encoder realisations** - LiqFit supports different types of cross-encoders, including conventional, binary one and encoder-decoder architectures;
+* ⚖️ **Stable to unbalanced datasets** - LiqFit uses normalisation techniques that allow it to work well even in the cases of unbalanced data;
 * 🏷️ **Multi-label classification support** -  The approach can be applied for both multi-class and multi-label classification;
 
 Limitations:
